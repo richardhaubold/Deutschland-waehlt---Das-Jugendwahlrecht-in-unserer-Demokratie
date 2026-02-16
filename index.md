@@ -20,6 +20,7 @@ Zentrale Bestandteile sind die Analyse von Bundestags- und U18-Wahlergebnissen
 
 ## Hinweis
 
+Dieser Leitfaden entstand im Rahmen des Abiturs. Die Nutzung des Leitfadens ist stets quellenartig anzugeben. 
 
 
 
