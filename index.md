@@ -16,7 +16,7 @@ Zentrale Bestandteile sind die Analyse von Bundestags- und U18-Wahlergebnissen
 
 ## Leitfaden zum Download
 
-➡️ [Hier klicken zum Download der Facharbeit](./leitfaden.pdf)
+➡️ [Hier klicken zum Download des Leitfadens](./leitfaden.pdf)
 
 ## Hinweis
 
