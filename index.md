@@ -1,5 +1,3 @@
-index.md
-
 # Deutschland wählt – Das Jugendwahlrecht in unserer Demokratie
 
 **Besondere Lernleistung im Rahmen des Abiturs**
