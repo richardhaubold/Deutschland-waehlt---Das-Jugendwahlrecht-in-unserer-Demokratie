@@ -18,6 +18,10 @@ Zentrale Bestandteile sind die Analyse von Bundestags- und U18-Wahlergebnissen
 
 ➡️ [Hier klicken zum Download des Leitfadens](./leitfaden.pdf)
 
+## Arbeit zum Download
+
+➡️ [Hier klicken zum Download der besonderen Lernleistung](./BeLL - Deutschland wählt - Das Jugendwahlrecht in unserer Demokratie.pdf) 
+
 ## Hinweis
 
 Dieser Leitfaden entstand im Rahmen des Abiturs. Die Nutzung des Leitfadens ist stets quellenartig anzugeben. 
