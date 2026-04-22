@@ -20,7 +20,7 @@ Zentrale Bestandteile sind die Analyse von Bundestags- und U18-Wahlergebnissen
 
 ## Arbeit zum Download
 
-➡️ [Hier klicken zum Download der besonderen Lernleistung](./leitfaden.pdf) 
+➡️ [Hier klicken zum Download der besonderen Lernleistung](./bell.pdf) 
 
 ## Hinweis
 
